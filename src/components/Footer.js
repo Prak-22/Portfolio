@@ -24,7 +24,7 @@ function Footer() {
                         <li className="social-icons">
                             <a
                                 href="mailto:prakrutipriyadarshini2004@gmail.com"
-                                target="_blank"
+                                // target="_blank"
                                 style={{ color: "white" }}
                                 rel="noreferrer noopener"
                             >

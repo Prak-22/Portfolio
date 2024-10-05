@@ -75,7 +75,7 @@ function Home2() {
                             <li className="social-icons">
                                 <a
                                     href="mailto:prakrutipriyadarshini2004@gmail.com"
-                                    target="_blank"
+                                    // target="_blank"
                                     rel="noreferrer"
                                     className="icon-colour home-social-icons"
                                 >
